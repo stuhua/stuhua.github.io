@@ -4,7 +4,7 @@ title: 关于我
 category: about
 tags: about
 keywords: about me
-description:介绍自己的
+description:
 ---
 
 ### 学校经历
