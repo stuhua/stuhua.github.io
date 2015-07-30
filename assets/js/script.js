@@ -12,11 +12,11 @@ if ($(window).width() <= 1280) {
 
 // Variables
     tag1       = $('.pl__all'),
-    tag2       = $('.technology'),
-    tag3       = $('.release'),
-    tag4       = $('.leetcode'),
-    tag5       = $('.read'),
-    tag6       = $('.like'),
+    tag2       = $('.api'),
+    tag3       = $('.tools'),
+    tag4       = $('.optimization'),
+    tag5       = $('.ubuntu'),
+    tag6       = $('.work'),
     tag7       = $('.about');
 
 var sidebar    = $('#sidebar'),
