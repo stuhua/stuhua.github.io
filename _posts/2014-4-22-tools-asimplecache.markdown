@@ -4,7 +4,7 @@ title: Android缓存
 category: tools
 tags: Android缓存
 keywords: blog
-description:轻量级的缓存工具类
+description:
 ---
 
 ### ASimpleCache可以缓存哪些东西
