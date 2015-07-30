@@ -134,9 +134,9 @@ function afterPjax() {
   // Lazy Loading Disqus
   // http://jsfiddle.net/dragoncrew/SHGwe/1/
   var ds_loaded = false,
-      top = $('#disqus_thread').offset().top;
+      top = $('#ds_thread').offset().top;
       identifier = $('#post__title').data('identifier');
-  window.disqus_shortname = 'tomhuahua';
+  window.disqus_shortname = 'stormhua';
   window.disqus_identifier = identifier;
 
   function check() {
