@@ -136,7 +136,7 @@ function afterPjax() {
   var ds_loaded = false,
       top = $('#disqus_thread').offset().top;
       identifier = $('#post__title').data('identifier');
-  window.disqus_shortname = '';
+  window.disqus_shortname = 'tomhuahua';
   window.disqus_identifier = identifier;
 
   function check() {
