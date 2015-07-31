@@ -13,3 +13,8 @@ title: Super Hua的博客
 description: Super Hua的博客
 url: http://tomhuahua.github.io
 language: 中文
+
+#Baidu analytics / 百度统计(异步的js码，注意使用异步版本的)
+baidu_analyze: 0324e9cfdaa962b0214b1636cf84feb5
+
+
