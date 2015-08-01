@@ -24,7 +24,7 @@ tags: session、cookie
 
 ### 实现步骤
 
-```  java
+{% highlight python %}
 以java.net.HttpURLConnection发起请求为例：
 获取Cookie： 
 URL url = new URL(requrl);
@@ -42,10 +42,11 @@ HttpURLConnectioncon= (HttpURLConnection) url.openConnection();
 if(sessionid != null) { 
 con.setRequestProperty("cookie", sessionid); 
 }
-```
+{% endhighlight %}
 
 ---
 
 ### 总结
 
 >**写的不容易啊。。给你赞☻**
+
