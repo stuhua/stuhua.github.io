@@ -24,7 +24,7 @@ tags: session、cookie
 
 ### 实现步骤
 
-{% highlight python %}
+{% highlight java %}
 以java.net.HttpURLConnection发起请求为例：
 获取Cookie： 
 URL url = new URL(requrl);
