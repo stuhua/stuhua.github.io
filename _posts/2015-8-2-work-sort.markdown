@@ -114,6 +114,8 @@ tags: 冒泡排序、选择排序、插入排序、希尔排序、归并排序�
 	}
 {% endhighlight %}
 
+---
+
 ### 总结
 
 <img src="/image/sort.png"/>
