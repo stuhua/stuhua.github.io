@@ -8,7 +8,7 @@ tags: 项目
 ---
   
 * 1.工厂
-* 
+ 
 <center>
 <img src="/image/factory.gif" height="266.5px" width="160px">
 </center>
