@@ -8,12 +8,12 @@ tags: 项目
 ---
 
 ##我做的项目
-
+  
 * 1.工厂
 
 <center>
 <!--把下面代码加到<body>与</body>之间-->
-<img src="/image/factory.gif" height="533" width="320"><br>
+<img src="/image/factory.gif" height="266.5px" width="160px"><br>
 <a href="javascript:play();">播放</a> | <a href="javascript:;">停止</a>
 <script type="text/javascript">
 function play(){
