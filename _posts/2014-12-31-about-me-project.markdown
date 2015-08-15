@@ -15,7 +15,7 @@ tags: 项目
 
 ----
 
-### 3.自己的简历
+### 2.自己的简历
 
 <center>
 <img src="/image/resume.gif" height="266.5px" width="160px"/>
@@ -32,7 +32,7 @@ tags: 项目
 
 ----
 
-### 2.练习代码
+### 4.练习代码
 
 <center>
 <img src="/image/tomhuahua.gif" height="266.5px" width="160px" />
