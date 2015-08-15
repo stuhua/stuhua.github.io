@@ -12,7 +12,16 @@ tags: 项目
 * 1.工厂
 
 <center>
-<img src="/image/factory.gif" />
+<!--把下面代码加到<body>与</body>之间-->
+<img src="/image/factory.gif" height="533" width="320"><br>
+<a href="javascript:play();">播放</a> | <a href="javascript:;">停止</a>
+<script type="text/javascript">
+function play(){
+var imgs=document.getElementsByTagName('img');
+  for (var i=0; i<imgs.length; i++)
+  imgs[i].src = imgs[i].src;
+}
+</script>
 </center>
 
 * 2.练习代码
