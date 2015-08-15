@@ -11,6 +11,13 @@ tags: 项目
   
 * 1.工厂
 
+
+
+<div  float:left;width:49%;border:1px solid #F00>第一个DIV盒子</div> 
+<div  float:left;width:49%;border:1px solid #000>第二个DIV盒子</div> 
+
+
+  
 <center>
 <!--把下面代码加到<body>与</body>之间-->
 <img src="/image/factory.gif" height="266.5px" width="160px"><br>
