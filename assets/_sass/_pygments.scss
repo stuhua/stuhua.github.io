@@ -18,7 +18,7 @@ pre {
   font: .9em/1.5 Consolas, Monaco, 'Andale Mono', monospace;
   border: 1px solid $pygments-bd;
   border-radius: 3px;
-  background-color: $pygments-even;
+  background-color: #333;
   background-image: -webkit-linear-gradient(transparent 50%, $pygments-odd 50%);
   background-image: -moz-linear-gradient(transparent 50%, $pygments-odd 50%);
   background-image: -ms-linear-gradient(transparent 50%, $pygments-odd 50%);
