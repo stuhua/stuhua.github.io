@@ -13,20 +13,27 @@ tags: 第一行代码、书上小例子
 
 * 1.配置身份
 
-    git config --global user.name "stuhua"
-    git config --global user.email "stuhua@gmail.com"
+{% highlight java %}
+git config --global user.name "stuhua"
+git config --global user.email "stuhua@gmail.com"
+{% endhighlight %}
 
 * 2.创建代码库
-    
-    git init	//先进入项目目录下
+
+{% highlight java %}
+git init	//先进入项目目录下
+{% endhighlight %}
+ 
 
 * 3.提交本地代码
-		
-    git add src
-    git add .	//添加当前目录的所有文件
-    git add AndroidMainfest.xml
-    git commit -m "First commit"
 
+{% highlight java %}
+git add src
+git add .	//添加当前目录的所有文件
+git add AndroidMainfest.xml
+git commit -m "First commit"
+{% endhighlight %}		
+   
 ----------
 
 ## 忽略文件
