@@ -13,10 +13,8 @@ tags: 第一行代码、书上小例子
 
 * 1.配置身份
 
-	git config --global user.name "stuhua"
-	git config --global user.email "stuhua@gmail.com"
-
-
+    git config --global user.name "stuhua"
+    git config --global user.email "stuhua@gmail.com"
 
 * 2.创建代码库
     
@@ -24,10 +22,10 @@ tags: 第一行代码、书上小例子
 
 * 3.提交本地代码
 		
-	git add src
-	git add .	//添加当前目录的所有文件
-	git add AndroidMainfest.xml
-	git commit -m "First commit"
+    git add src
+    git add .	//添加当前目录的所有文件
+    git add AndroidMainfest.xml
+    git commit -m "First commit"
 
 ----------
 
