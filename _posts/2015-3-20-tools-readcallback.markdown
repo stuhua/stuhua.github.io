@@ -13,8 +13,10 @@ tags: 第一行代码、书上小例子
 
 * 1.配置身份
 
-		-git config --global user.name "stormhua"
-		-git config --global user.email "stormhua@gmail.com"
+{% highlight java %}
+	git config --global user.name "stuhua"
+	git config --global user.email "stuhua@gmail.com"
+{% endhighlight %}
 
 
 * 2.创建代码库

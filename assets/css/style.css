@@ -948,6 +948,7 @@ pre {
       background: #d6dbe1; }
 
 pre > code {
+  color: #eee;
   font-family: inherit;
   direction: ltr;
   text-align: left;
