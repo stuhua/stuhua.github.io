@@ -19,7 +19,7 @@ tags: Android 自定义 View
 
 * 1.编写attr.xml文件
 
-{% highligth java %}
+{% highlight java %}
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="TopBar">
