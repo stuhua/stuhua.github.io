@@ -52,18 +52,18 @@ public class TopBar extends RelativeLayout {
 
         leftTextColor = typedArray.getColor(R.styleable.TopBar_leftTextColor, 0);
         leftBackground = typedArray.getDrawable(R.styleable.TopBar_leftBackground);
+        leftText = typedArray.getString(R.styleable.TopBar_leftText);
 
 //		在执行完之后，一定要确保调用  recycle()函数 
-        leftText = typedArray.getString(R.styleable.TopBar_leftText);
  		typedArray.recycle();
-
+	}
 }
 {% endhighlight %}
 
 * 3.设置点击监听
 
 {% highlight java %}
-//		写一个接口
+//		在TopBar.java里写一个内部接口
 public interface TopBarClickListener {
 //		左边按钮
         public void leftClick();
@@ -71,7 +71,7 @@ public interface TopBarClickListener {
         public void rightClick();
     }
 
-
+//构造函数里设置监听
     leftButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -95,3 +95,7 @@ public interface TopBarClickListener {
 ### 总结
 
 以上是自定义标题栏的个别部分
+
+<center>
+<img src="/image/customview.png"/>
+</center>
