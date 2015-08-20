@@ -85,7 +85,7 @@ public interface TopBarClickListener {
             }
         });
 
-//	用于给外部提供方法
+//	用于给外部提供的方法
     public void setOnTopBarClickListener(TopBarClickListener listener) {
         this.listener = listener;
     }
