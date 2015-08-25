@@ -4,7 +4,7 @@ title: Android缓存
 category: tools
 tags: Android缓存
 keywords: blog
-description:
+description:blog
 ---
 
 ### ASimpleCache可以缓存哪些东西
