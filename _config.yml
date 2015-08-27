@@ -15,6 +15,6 @@ url: http://tomhuahua.github.io
 language: 中文
 
 #Baidu analytics / 百度统计(异步的js码，注意使用异步版本的)
-analytics :
-  provider : custom
+#analytics :
+#  provider : custom
 
