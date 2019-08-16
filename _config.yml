@@ -1,17 +1,16 @@
-highlighter: pygments
+rouge: pygments
 
 # 作者信息
 author:
-  name: Super Hua
-  email: qq850360626@gmail.com
-  link: http://tomhuahua.github.io
-  weibo: http://weibo.com/superhua
-  github: http://github.com/tomhuahua
+  name: Hua
+  email: 850360626@qq.com
+  link: http://stuhua.github.io
+  github: http://github.com/stuhua
 
 # 站点信息
-title: Super Hua的博客
-description: Super Hua的博客
-url: http://tomhuahua.github.io
+title: Hua的博客
+description: Hua的博客
+url: http://stuhua.github.io
 language: 中文
 
 #Baidu analytics / 百度统计(异步的js码，注意使用异步版本的)
