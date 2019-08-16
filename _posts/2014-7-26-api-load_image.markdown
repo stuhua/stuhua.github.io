@@ -1,10 +1,10 @@
 ---
 layout: post
+keywords: blog
+description: blog
 title: Android高效加载大图
-category: api
+categories: api
 tags: Android高效加载大图
-keywords: blog、oom
-description:blog
 ---
 
 ## Android高效加载大图、多图解决方案，有效避免程序OOM(out of memery)

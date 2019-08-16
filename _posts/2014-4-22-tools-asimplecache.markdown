@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Android缓存
-category: tools
-tags: Android缓存
 keywords: blog
-description:blog
+description: blog
+title: Android缓存
+categories: api
+tags: Android缓存
 ---
 
 ### ASimpleCache可以缓存哪些东西
